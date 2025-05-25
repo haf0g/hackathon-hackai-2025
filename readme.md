@@ -1,4 +1,4 @@
-# Retail Product Insights Assistant 🛒
+# Hackai 1337 Hackathon - Retail Product Insights Assistant 🛒
 
 A comprehensive RAG (Retrieval-Augmented Generation) system for supermarket product analysis, featuring:
 - **Telegram bot** for conversational interface

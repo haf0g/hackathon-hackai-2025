@@ -12,7 +12,7 @@ app = Flask(_name_)
 CORS(app)
 
 # Load Groq Client
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "groq_api_here"
 groq_client = Groq(api_key=GROQ_API_KEY)
 
 # ------------------ RAG SYSTEM FOR MARKET PRODUCTS ------------------

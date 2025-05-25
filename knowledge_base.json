@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "nom_article": "Yaourt aux fruits - Yoplait",
+      "societe_fabricant": "General Mills",
+      "prix": 1.99,
+      "stock": 150,
+      "description_produit": "Yaourt aromatisé",
+      "delai_livraison_moyen": "1 à 2 jours"
+    },
+    {
+      "nom_article": "Lait demi-écrémé - Candia",
+      "societe_fabricant": "Candia",
+      "prix": 0.89,
+      "stock": 300,
+      "description_produit": "Lait en bouteille d'un litre",
+      "delai_livraison_moyen": "2 à 3 jours"
+    },
+    {
+      "nom_article": "Pain de mie complet - Harrys",
+      "societe_fabricant": "Harrys",
+      "prix": 1.5,
+      "stock": 120,
+      "description_produit": "Pain de mie sans croûte riche en fibres",
+      "delai_livraison_moyen": "1 jour"
+    },
+    {
+      "nom_article": "Beurre doux - Président",
+      "societe_fabricant": "Lactalis",
+      "prix": 2.1,
+      "stock": 80,
+      "description_produit": "Beurre doux en plaquette de 250g",
+      "delai_livraison_moyen": "2 jours"
+    },
+    {
+      "nom_article": "Pâtes penne - Barilla",
+      "societe_fabricant": "Barilla",
+      "prix": 1.3,
+      "stock": 200,
+      "description_produit": "Pâtes alimentaires de blé dur",
+      "delai_livraison_moyen": "1 à 2 jours"
+    },
+    {
+      "nom_article": "Huile d'olive vierge extra - Puget",
+      "societe_fabricant": "Lesieur",
+      "prix": 4.99,
+      "stock": 50,
+      "description_produit": "Huile d'olive de qualité supérieure",
+      "delai_livraison_moyen": "3 à 4 jours"
+    },
+    {
+      "nom_article": "Céréales Chocapic - Nestlé",
+      "societe_fabricant": "Nestlé",
+      "prix": 2.75,
+      "stock": 180,
+      "description_produit": "Céréales chocolatées pour petit-déjeuner",
+      "delai_livraison_moyen": "1 jour"
+    },
+    {
+      "nom_article": "Jus d'orange 100% pur - Tropicana",
+      "societe_fabricant": "PepsiCo",
+      "prix": 3.2,
+      "stock": 90,
+      "description_produit": "Jus d'orange sans sucre ajouté",
+      "delai_livraison_moyen": "2 jours"
+    },
+    {
+      "nom_article": "Biscuits Petit Beurre - LU",
+      "societe_fabricant": "Mondelez",
+      "prix": 1.25,
+      "stock": 250,
+      "description_produit": "Biscuits secs classiques",
+      "delai_livraison_moyen": "1 à 2 jours"
+    },
+    {
+      "nom_article": "Savon liquide mains - Le Petit Marseillais",
+      "societe_fabricant": "Johnson & Johnson",
+      "prix": 2.45,
+      "stock": 110,
+      "description_produit": "Savon liquide à la fleur d'oranger",
+      "delai_livraison_moyen": "2 jours"
+    },
+    {
+      "nom_article": "Eau minérale - Evian",
+      "societe_fabricant": "Danone",
+      "prix": 0.75,
+      "stock": 500,
+      "description_produit": "Bouteille d’eau minérale naturelle 1.5L",
+      "delai_livraison_moyen": "1 jour"
+    }
+  ]
+}

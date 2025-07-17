@@ -117,7 +117,7 @@ python-dotenv==1.0.0
 ```
 🌐 Architecture
 
-![alt text](deepseek_mermaid_20250525_0bd843.png)
+<img width="1841" height="1146" alt="image" src="https://github.com/user-attachments/assets/e309275b-bc7c-4f0e-a196-5b7f9f5f47b5" />
 
 
 Tips & Troubleshooting

@@ -8,7 +8,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 import altair as alt
 
-# ------- RAG SYSTEM (même code que dans ton Flask) -------
+# ------- RAG SYSTEM -------
 
 @dataclass
 class ProductItem:
@@ -74,7 +74,7 @@ class RAGSystem:
 
 # ------ CONFIG GROQ ------
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "gsk___"
 groq_client = Groq(api_key=GROQ_API_KEY)
 
 # ------ INITIALISATIONS ------
@@ -163,4 +163,5 @@ Fournis un résumé clair et utile basé sur la requête de l'utilisateur (en fr
                 st.write(generated_text)
 
             except Exception as e:
+
                 st.error(f"Erreur lors de la génération : {e}")
